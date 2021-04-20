@@ -3,11 +3,11 @@ AAA - Authentication, Authorization and Accounting
 PHR - Patient Health Record
 
 ## :clipboard: Table of contents 
-* [General Info](#general-info)
-* [Task Description](#task-description)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Implementation Notes](#implementation-notes)
+  - [General Info](#information_source-general-info)
+  - [Task Description](#white_check_mark-task-description)
+  - [Technologies](#computer-technologies)
+  - [Setup](#gear-setup)
+  - [Implementation Notes](#bangbang-implementation-notes)
 
 ## :information_source: General Info
 The project implements a secure AAA service for managing hospital operations and data (electronic health records). 
@@ -21,10 +21,10 @@ System has a role-based access control model and policies and supports 4 types o
 
 Some of the features implemented in this project are encyption/decription keys exchange, session-key and credential negotiation, first-time login password, signup and login operations, support for password strength evaluation, storing password hash+salt, creation of audit logs for various (sensitive) activities or data access.
 
-**System Design document** can be found in supporting docs repository folder *file: [System Design Document.pdf](SupportingDocs/System Design Document.pdf)*
+**System Design document** can be found in supporting docs repository folder *file: [System Design Document.pdf](https://github.com/agoidin/Patients-Health-Records-Management-System/blob/master/SupportingDocs/System%20Design%20Document.pdf)*
 ## :white_check_mark: Task Description
-This project was a university group task (4 members in our team) for ***SCC363:Security and Risk*** module. Main idea is to design,document and develop a secure AAA system. The full task can be found in supporting docs repository folder *file: [Coursework Task.pdf](SupportingDocs/Coursework Task.pdf)*
-Second part of the project was an individual report. It describes risk analysis and security measures for our AAA service. My report can be in supporting docs repository folder *file: [Risk Report.pdf](SupportingDocs/Risk Report.pdf)*
+This project was a university group task (4 members in our team) for ***SCC363:Security and Risk*** module. Main idea is to design,document and develop a secure AAA system. The full task can be found in supporting docs repository folder *file: [Coursework Task.pdf](https://github.com/agoidin/Patients-Health-Records-Management-System/blob/master/SupportingDocs/Coursework%20Task.pdf)*
+Second part of the project was an individual report. It describes risk analysis and security measures for our AAA service. My report can be in supporting docs repository folder *file: [Risk Report.pdf](https://github.com/agoidin/Patients-Health-Records-Management-System/blob/master/SupportingDocs/Risk%20Report.pdf)*
 	
 ## :computer: Technologies
 Project is created with:
@@ -36,7 +36,7 @@ Project is created with:
 * Java JCA
 	
 ## :gear: Setup
---JAVA 8+ REQUIRED--
+-- JAVA 8+ REQUIRED --
 
 1. FIRST RUN THE SERVER - Go to /Server:
 OPEN COMMAND-LINE IN THAT FOLDER and run following command:
@@ -57,14 +57,16 @@ $ java Main
 3. USE ONE OF THE USERS TO LOG IN:
 (please clear all whitespaces)
 
-admin@phr.co.uk         Admin123!
-patient1@email.com      PatientPatient111!          
-patient2@email.com      PatientPatient222!          
-staff1@phr.co.uk        StaffStaff111!
-staff2@phr.co.uk        StaffStaff222!              (first login, requires password change)
-regulator1@phr.co.uk    Regulator111!               
-regulator2@phr.co.uk    Regulator222!               (first login, requires password change)
-newpatient@test.com     TestTest123!                (first login, requires password change)
+| Username                | Password            | Additional info                           |
+| ----------------------- |:-------------------:| -----------------------------------------:|
+|  admin@phr.co.uk        |  Admin123!          |                                           |
+|  patient1@email.com     |  PatientPatient111! |                                           |
+|  patient2@email.com     |  PatientPatient222! |                                           |     
+|  staff1@phr.co.uk       |  StaffStaff111!     |                                           |
+|  staff2@phr.co.uk       |  StaffStaff222!     | (first login, requires password change)   |
+|  regulator1@phr.co.uk   |  Regulator111!      |                                           |
+|  regulator2@phr.co.uk   |  Regulator222!      | (first login, requires password change)   |
+|  newpatient@test.com    |  TestTest123!       | (first login, requires password change)   |
 
 ## :bangbang: Implementation Notes
 As it was a university project with limited timeframes and certain learning objectives, the main focus was on functinality rather than interface design. Therefore, GUI is very simple and was developed just for easier visual testing purposes. Also, project layout is simple and files are not split in different packages.
