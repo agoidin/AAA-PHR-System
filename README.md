@@ -49,19 +49,19 @@ OPEN COMMAND-LINE IN THAT FOLDER and run following command:
 $ java -classpath ".;sqlite-jdbc-3.8.11.2.jar" Main
 ```
 
-KEEP THE COMMAND-LINE OPEN
+	KEEP THE COMMAND-LINE OPEN
 
-1. RUN THE CLIENT - Go to /Client
+2. RUN THE CLIENT - Go to /Client
    
-OPEN NEW COMMAND-LINE IN THAT FOLDER and run following command:
+	OPEN NEW COMMAND-LINE IN THAT FOLDER and run following command:
 
 ```
 $ java Main
 ```
 
-1. USE ONE OF THE USERS TO LOG IN:
+3. USE ONE OF THE USERS TO LOG IN:
 
-(please clear all whitespaces)
+	(please clear all whitespaces)
 
 |       Username       |      Password      |             Additional info             |
 | :------------------: | :----------------: | :-------------------------------------: |
