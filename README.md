@@ -4,7 +4,7 @@ AAA - Authentication, Authorization and Accounting
 
 PHR - Patient Health Record
 
-## :clipboard: Table of contents 
+## :clipboard: Table of Contents 
   - [General Info](#information_source-general-info)
   - [Task Description](#white_check_mark-task-description)
   - [Technologies](#computer-technologies)
