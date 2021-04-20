@@ -44,7 +44,7 @@ Project is created with:
 
 **1. RUN THE SERVER:**
 
-Go to /Server
+Go to [/Server](https://github.com/agoidin/Patients-Health-Records-Management-System/tree/master/Server)
 
 Open command-line in that folder and run following command:
 
@@ -56,7 +56,7 @@ KEEP THE COMMAND-LINE OPEN
 
 **2. RUN THE CLIENT:**
 
-Go to /Client
+Go to [/Client](https://github.com/agoidin/Patients-Health-Records-Management-System/tree/master/Client)
 
 Open command-line in that folder and run following command:
 
