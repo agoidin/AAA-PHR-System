@@ -1,5 +1,7 @@
-# :hospital: AAA PHR Management System
+# AAA PHR Management System
+
 AAA - Authentication, Authorization and Accounting
+
 PHR - Patient Health Record
 
 ## :clipboard: Table of contents 
@@ -36,7 +38,8 @@ Project is created with:
 * Java JCA
 	
 ## :gear: Setup
--- JAVA 8+ REQUIRED --
+
+**-- JAVA 8+ REQUIRED --**
 
 1. FIRST RUN THE SERVER - Go to /Server:
 OPEN COMMAND-LINE IN THAT FOLDER and run following command:
