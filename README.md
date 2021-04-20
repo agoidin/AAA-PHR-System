@@ -26,6 +26,7 @@ Some of the features implemented in this project are encyption/decription keys e
 **System Design document** can be found in supporting docs repository folder *file: [System Design Document.pdf](https://github.com/agoidin/Patients-Health-Records-Management-System/blob/master/SupportingDocs/System%20Design%20Document.pdf)*
 ## :white_check_mark: Task Description
 This project was a university group task (4 members in our team) for ***SCC363:Security and Risk*** module. Main idea is to design,document and develop a secure AAA system. The full task can be found in supporting docs repository folder *file: [Coursework Task.pdf](https://github.com/agoidin/Patients-Health-Records-Management-System/blob/master/SupportingDocs/Coursework%20Task.pdf)*
+
 Second part of the project was an individual report. It describes risk analysis and security measures for our AAA service. My report can be in supporting docs repository folder *file: [Risk Report.pdf](https://github.com/agoidin/Patients-Health-Records-Management-System/blob/master/SupportingDocs/Risk%20Report.pdf)*
 	
 ## :computer: Technologies
@@ -41,25 +42,29 @@ Project is created with:
 
 **-- JAVA 8+ REQUIRED --**
 
-1. FIRST RUN THE SERVER - Go to /Server:
-   
-OPEN COMMAND-LINE IN THAT FOLDER and run following command:
+**1. RUN THE SERVER:**
+
+Go to /Server
+
+Open command-line in that folder and run following command:
 
 ```
 $ java -classpath ".;sqlite-jdbc-3.8.11.2.jar" Main
 ```
 
-	KEEP THE COMMAND-LINE OPEN
+KEEP THE COMMAND-LINE OPEN
 
-2. RUN THE CLIENT - Go to /Client
-   
-	OPEN NEW COMMAND-LINE IN THAT FOLDER and run following command:
+**2. RUN THE CLIENT:**
+
+Go to /Client
+
+Open command-line in that folder and run following command:
 
 ```
 $ java Main
 ```
 
-3. USE ONE OF THE USERS TO LOG IN:
+**3. USE ONE OF THE USERS TO LOG IN:**
 
 	(please clear all whitespaces)
 
