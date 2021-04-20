@@ -1,0 +1,126 @@
+2021-02-11 09:44:11|---|EVENT|SessionSucessfullyNegotiated:SessionId: Q4Jv8vIcUrL4AA==
+2021-02-11 09:51:51|lDwx2HADUKQWHS07Mosxvex6q1FX5rTPNvkcVH8GTrc=|EVENT|SucessfulLogin:Email: patient@email.com SessionId Q4Jv8vIcUrL4AA==
+2021-02-11 09:52:11|0p7lTbfl9G1lLaAMFVY8+Aqkvw2oi7Vz/YM8eai/Dec=|EVENT|SessionSucessfullyNegotiated:SessionId: QD9KyLqo2Ipeww==
+2021-02-11 09:53:42|EbvVULgGnkGFZOd4XznteM5JFp62bgGTEFqCE+85lP4=|EVENT|SucessfulLogin:Email: patient@email.com SessionId QD9KyLqo2Ipeww==
+2021-02-11 09:54:12|6Wf47jWh+sMSVNXC4Je0QPWkcnASgkkw3czEVYoW0eQ=|EVENT|SessionSucessfullyNegotiated:SessionId: 1nb9HSb0lUp8hA==
+2021-02-11 09:54:33|mVh1hj4lLUujckqWSs6l3a9UTvI35iQHaz8sbvMhRSU=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId 1nb9HSb0lUp8hA==
+2021-02-11 09:54:47|IFZx26/wjfUPHqeQKWeOWdfB5neHamC7a1XQQNgQ0oQ=|EVENT|UserCreated:CreatedEmail: newpatient2@test.com CreatorEmail: admin@phr.co.uk
+2021-02-11 09:54:49|xeOQETmtVzWgUsnLUy6vOTYYjpaNlMgL7vxfZ3tLRGM=|EVENT|SessionSucessfullyNegotiated:SessionId: TlLrrgpBHvJasA==
+2021-02-11 09:55:11|3UkgdJgPRlAB19azLSMcZyfLKlvD5mAXlVR094EGfYU=|EVENT|SucessfulLogin:Email: newpatient2@test.com SessionId TlLrrgpBHvJasA==
+2021-02-11 10:00:50|l5XbeTYZu3lpyDOnqSa33Phzh4g6K9w8CwEOPsAs5ns=|EVENT|SessionSucessfullyNegotiated:SessionId: IIpzI1/gSctMLQ==
+2021-02-11 10:01:02|Xoem0+i0bpKPR+4pMumTJjIe4meeTzeU/mSM4/sxE3o=|EVENT|SucessfulLogin:Email: staff@phr.co.uk SessionId IIpzI1/gSctMLQ==
+2021-02-11 10:02:23|77pEnBIeqkMnsTQbMCmXu0sB0mbalQJftCt5zSDXLV0=|EVENT|PatientRecordUpdated:RecordId: 28 UpdatorEmail: staff@phr.co.uk
+2021-02-11 10:02:24|s2Lj/3usTsZt1EXYC3XCm57wekE2pXGiGWrjA2ptLxQ=|EVENT|PatientRecordUpdated:RecordId: 28 UpdatorEmail: staff@phr.co.uk
+2021-02-11 10:02:39|qDvBKOSiyLBVJcrqGfDo/yXSMmdE1p28n5pRK6B9hI0=|EVENT|SessionSucessfullyNegotiated:SessionId: yPvBCXHGNG+DXA==
+2021-02-11 10:02:59|eU+b23jAZrDhtXMctJ+U8HzI66TtAMGUix3PkfZeOvI=|EVENT|SucessfulLogin:Email: newpatient2@test.com SessionId yPvBCXHGNG+DXA==
+2021-02-11 10:11:12|sDySN9g0+UFKrVSxjLMZi6iuvGTmLrVn9Ond9r5ub48=|EVENT|SessionSucessfullyNegotiated:SessionId: 8AneggggGz5vfg==
+2021-02-11 10:11:24|JATW5Z7+IdJFGu4igNdsLdNRWqsGvyHHW46gt7itGhU=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId 8AneggggGz5vfg==
+2021-02-11 10:35:57|MOcjJnIKeVQUit4YgpYnTvfhWQctdSAmLMoZ3e91TpY=|EVENT|SessionSucessfullyNegotiated:SessionId: /3GyOi22BkV6Ew==
+2021-02-11 10:36:08|8UYwrgtObk9P00EobykBgFWn2hL+2nZe7r0IyXJPgQc=|EVENT|SucessfulLogin:Email: staff@phr.co.uk SessionId /3GyOi22BkV6Ew==
+2021-02-11 10:37:16|---|EVENT|SessionSucessfullyNegotiated:SessionId: k2QPFSfrZBfvdg==
+2021-02-11 10:37:25|91mXlwlVYWVxJ+mmyKBIi+wl+jLF5ymK9ZxDOH31tZE=|EVENT|SucessfulLogin:Email: staff@phr.co.uk SessionId k2QPFSfrZBfvdg==
+2021-02-11 10:40:23|---|EVENT|SessionSucessfullyNegotiated:SessionId: TmbBQDanKfKeaA==
+2021-02-11 10:40:30|Qog7FG+zP31BIsU3T1+fF3snJAsx75D/Yr/HSd2auws=|EVENT|SucessfulLogin:Email: regulator@phr.co.uk SessionId TmbBQDanKfKeaA==
+2021-02-11 10:40:55|eUMITLhcYBP7SwMHXcPV1ulxSu8A+TyvWoUWPT0vAD4=|EVENT|SessionSucessfullyNegotiated:SessionId: AbkGVxjXWAM2Xg==
+2021-02-11 10:41:05|nbykmFO7dXGkzT9ji2l+vx2as0f5ULqlgqBfKfdPPaQ=|EVENT|SucessfulLogin:Email: regulator@phr.co.uk SessionId AbkGVxjXWAM2Xg==
+2021-02-11 18:52:03|---|EVENT|SessionSucessfullyNegotiated:SessionId: /JJoSeRpE0Jf0g==
+2021-02-11 18:52:12|+apbU63Xq3s5YBHRKwFJ5iPJGLFTpdk2/MmLPQzk2l4=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId /JJoSeRpE0Jf0g==
+2021-02-11 18:52:17|4Kcrcsze7QTfOSlMSoXwRiNBHE9r4y+IWEU4bGkbVPg=|EVENT|UserDeleted:UserId: 27 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:52:19|pp4etniNIAczLfdGwSGu1+VeYnHbGho+SAOU8tUWHaY=|EVENT|UserDeleted:UserId: 28 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:52:45|cCNk2tioYQChGx94r+o0UvvEowawOPxs+Mal4AnlEGw=|EVENT|UserCreated:CreatedEmail: newpatient@test.com CreatorEmail: admin@phr.co.uk
+2021-02-11 18:52:54|dA9Nc7IVIpNQHfJpaDeM+FZuKvmIEtZbOMugNMxmhyM=|EVENT|SessionSucessfullyNegotiated:SessionId: zVrH82+avQMahA==
+2021-02-11 18:53:09|IwWdKAKXly7JE5LRk4xfeLOkKx6DCeWa1BA+3wlmCHM=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId zVrH82+avQMahA==
+2021-02-11 18:53:12|ATWQ6Ou065FfUGsOdjYrDtoc1WJAFLk9omOXZnQKWRU=|EVENT|SessionSucessfullyNegotiated:SessionId: MkvHq/XpsG/5yg==
+2021-02-11 18:53:21|Hruum/+0OVsS0nCQcAA06J2DvjFAZ5KY8ozwRW6esO8=|EVENT|SucessfulLogin:Email: patient1@email.com SessionId MkvHq/XpsG/5yg==
+2021-02-11 18:53:27|RK51B8iOCPnFdK1EKZYetGlRGABuRjlCEq1vUzcAPC4=|EVENT|SessionSucessfullyNegotiated:SessionId: 69uCr9Z0u0LemA==
+2021-02-11 18:53:37|krd54DcDcbeL0zo+/9ta8KO7ixgpAU6lsbQ3hIRGOjU=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId 69uCr9Z0u0LemA==
+2021-02-11 18:53:49|VfGXxsWPfTRfT48YnIAPjX/LbOldCiDnO+SS2cul3Ek=|EVENT|UserDeleted:UserId: 2 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:50|yF23fCtRX2g8Jn8PycG0W/FsbpLS4y0nw1d+Au+yB4E=|EVENT|UserDeleted:UserId: 3 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:51|sxbgQf/4Whoe4KrJbIyxn6zA8k7p/61Gmr/dZnJmU8U=|EVENT|UserDeleted:UserId: 5 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:52|R2dSwikTb0WYKp+y+UDgPQSO1gHEOCy63kFkBr9F/cE=|EVENT|UserDeleted:UserId: 6 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:52|jd9aUsNoRTMi8lSjnlsd57sqz/pbaOsiGMsVut/Sc0A=|EVENT|UserDeleted:UserId: 7 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:53|A8wDyeebI1dV5mqCOsZwj4uuZ0JJ6QAjyk7x9A9JX1s=|EVENT|UserDeleted:UserId: 8 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:54|VU6zdz6+mJGB6zm3ZcwxLHzd0iDv9xHTYkbkGpBX/Q0=|EVENT|UserDeleted:UserId: 9 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:54|PROCz6LrRpNPZsrnHA2uGqK+hRTqzKk0Dz0v8EVdi14=|EVENT|UserDeleted:UserId: 11 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:55|1nco4kwdqMuVJnRgDKoz7cBLXYeQpvvrkkh2144u2p0=|EVENT|UserDeleted:UserId: 13 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:55|lEImoJv5BHwZKG13GkZ5AwnUfa08UHlnSGNiA+yaiV0=|EVENT|UserDeleted:UserId: 23 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:53:56|2yF5+GF+56UP0gN0P9zzj8GrXEKFWFfyDM9sqw2FT10=|EVENT|UserDeleted:UserId: 29 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:57:07|+8x++f3iCRZzeG48Tioi+9kD9Tsu5yTXc0AJ6I2puEM=|EVENT|UserCreated:CreatedEmail: patient1@email.com CreatorEmail: admin@phr.co.uk
+2021-02-11 18:57:19|WXPPno7bw+AvLv+RahpQthQu5lZLws5fhjcszCeIgbc=|EVENT|UserCreated:CreatedEmail: patient2@email.com CreatorEmail: admin@phr.co.uk
+2021-02-11 18:57:29|RTYlwFrto8t5CayF28iSx1uuY4Det9wkxpIIm4EJioI=|EVENT|UserCreated:CreatedEmail: staff1@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:57:40|yE0iicJFyaPXeT0Y/ONN1PmKVH2xoW/U+oUzmDFR6e8=|EVENT|UserCreated:CreatedEmail: staff2@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:57:51|s3NOhHSAo0l2LV3w/uPheFx+erQYR06A2c65ZqPJJBY=|EVENT|UserCreated:CreatedEmail: regulator1@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:58:01|4ytWW4sFEl0iF3N+6eeaMnljXykLm94QzezWgqtscU0=|EVENT|UserCreated:CreatedEmail: regulator2@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:58:10|PBoj1tGRBVpyCB1HSn+BMYFymu6vwVYWjVdpNjp1XHg=|EVENT|UserCreated:CreatedEmail: newpatient@test.com CreatorEmail: admin@phr.co.uk
+2021-02-11 18:58:18|HdItRQV4yOknxCmynna+nLiSE996E/9zVQp7d6T+/u0=|EVENT|UserDeleted:UserId: 32 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:58:19|Z3tgFRRXYGEFiKRjZalVYZ6seEy2VH7Bq/rLaH3b+nw=|EVENT|UserDeleted:UserId: 33 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:58:19|mFozOHSc0WvPJAd9Eqch969f8pepNhfLoQS0DLQG8is=|EVENT|UserDeleted:UserId: 34 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:58:20|V43JngO8sZoPY6sqZAmmC0W9IpoBCQ9twKHHnac+uxY=|EVENT|UserDeleted:UserId: 35 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:58:21|QXgekEElfF5WMKKyJG2+zjodDjzrpNQBxyW9R0Fu9wE=|EVENT|UserDeleted:UserId: 36 DeletorEmail: admin@phr.co.uk
+2021-02-11 18:58:33|pUGGR0K/W4rTA49W8CULVMVz+/wTARdGYAUOqLW+EC0=|EVENT|UserCreated:CreatedEmail: staff1@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:58:42|v2rvbMGUrkG8tMXhJeWr2ViLExGPbeezsnXUD67UutY=|EVENT|UserCreated:CreatedEmail: staff2@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:58:53|ARf07IZnNAsRabKgFDL8aSgX1O4Dzzu4Xbg/oFhGUTc=|EVENT|UserCreated:CreatedEmail: regulator1@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:59:03|4yc+ZZZ1fu9DKGM4xwLQWhTGuXs4ldGpSoCtMorb+U8=|EVENT|UserCreated:CreatedEmail: regulator2@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 18:59:13|b3WmtA2z/nf/btLaF/Hnd9qfTpCx7oiZnXMtPD7uFls=|EVENT|UserCreated:CreatedEmail: newpatient@test.com CreatorEmail: admin@phr.co.uk
+2021-02-11 19:20:11|5KI+oucSjKx0wGBcxm+PxKG37c6luVOICcsNyC7stvk=|EVENT|SessionSucessfullyNegotiated:SessionId: LkfwTQUAd5rNMA==
+2021-02-11 19:20:21|Bu6IeZHuLwidLDlNC2QjLJIz6KUBJacpjQJUr82QS3I=|WARNING|Unsucessful login attempt for email staff1@phr.co.uk  using SessionId: LkfwTQUAd5rNMA==
+2021-02-11 19:20:43|lk9wVvuUr4l/WEWkgcglQQt7ltYVMAVO3VRxj4soPj0=|EVENT|SucessfulLogin:Email: staff1@phr.co.uk SessionId LkfwTQUAd5rNMA==
+2021-02-11 19:20:57|e1+xNZclaofaWqf4vX/H/bBXGTRKbmWB9Kkw6XJh/1I=|EVENT|SessionSucessfullyNegotiated:SessionId: aLmRqZoL/65sxQ==
+2021-02-11 19:21:06|GtPkV8dNUFsbqA4h0vNhW12dD0Hmkf5pDY37fp+WCuc=|EVENT|SucessfulLogin:Email: staff1@phr.co.uk SessionId aLmRqZoL/65sxQ==
+2021-02-11 19:21:14|CNEJzbJ43D0AwlgdRbgD4fJuoVfqo8O1WwuDPEfxvpo=|EVENT|SessionSucessfullyNegotiated:SessionId: rg9Vo7/HYiC6QQ==
+2021-02-11 19:21:23|ky0z6IWT8HthCQSO/RAwf4AVXOJdhisguCgu+Jn6qqQ=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId rg9Vo7/HYiC6QQ==
+2021-02-11 19:21:26|xzPVqbvqp1ulIsQDrisYfYmOydkQddse05BVBHb1XuE=|EVENT|UserDeleted:UserId: 37 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:21:40|PzEbb5tz0VU1I8UlNpkJwFKvRX7nmch3pNYRg8aYn/k=|EVENT|UserCreated:CreatedEmail: staff1@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 19:21:41|qhxmb+foppov8n6MRrhT7/VSyvKRM+5wJhaCjoD3KzI=|EVENT|SessionSucessfullyNegotiated:SessionId: Nlr+Zh/IqfA6HA==
+2021-02-11 19:21:55|/2xnXiT2G44TeMJq7q//ZjRwHFmRvc4ELo/2G8gvvTA=|EVENT|SucessfulLogin:Email: staff1@phr.co.uk SessionId Nlr+Zh/IqfA6HA==
+2021-02-11 19:21:58|hLkHlkxHGood4/aM7P8sLRR0Xiz3pzZKp6OUn+a/8/U=|EVENT|SessionSucessfullyNegotiated:SessionId: EyqBCk2KcUJc/Q==
+2021-02-11 19:22:04|Dt3b5HKYvsibcu+vgGYAzjWimtiYmy7qA3Sl4//iJGg=|EVENT|SucessfulLogin:Email: staff1@phr.co.uk SessionId EyqBCk2KcUJc/Q==
+2021-02-11 19:22:36|/Su3z8IHCCOciHqWiORA9XjTezFkr2bai8TzS0uWyM0=|EVENT|SessionSucessfullyNegotiated:SessionId: +5LqV6Wy6WX8Ag==
+2021-02-11 19:22:45|g9KZYzgADyvWXiFx9c8/LV+oKjfvOI4dyII1Wi7I96s=|EVENT|SucessfulLogin:Email: staff1@phr.co.uk SessionId +5LqV6Wy6WX8Ag==
+2021-02-11 19:24:23|Yb7hB56XwwKnEHjwbFbRaDkZYOBIPGxwYGBuYG+mo+g=|EVENT|SessionSucessfullyNegotiated:SessionId: zySTdSuwz16AsQ==
+2021-02-11 19:24:29|DzMEBrvB/CPW1pCQQbmyjCqVEIDs3KpngCjyInWKufQ=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId zySTdSuwz16AsQ==
+2021-02-11 19:36:33|vpVWAO+AASSI6R7BnTYNg/oA/5L0DSaCzYavgkGLsQU=|EVENT|SessionSucessfullyNegotiated:SessionId: O0b+hUr8hpsUPQ==
+2021-02-11 19:36:46|S72rnhiKprjLTZ1X8acChHPI5obEbGqx4/ULT5qHF6c=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId O0b+hUr8hpsUPQ==
+2021-02-11 19:37:00|kHYx/t2/oswyGRCMYFyKNr9+ZuoYvtP8r/cCiVtmxXg=|EVENT|UserCreated:CreatedEmail: test@test.com CreatorEmail: admin@phr.co.uk
+2021-02-11 19:37:09|VUxX/fb9TcGWqByNpEW+Gd7U8IiEbRGHUa2Yb7yicds=|EVENT|UserDeleted:UserId: 43 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:37:10|vbxvaRSPovzHBL5b27zoD1B0Wu3INuLFC21ZxMhcazs=|EVENT|SessionSucessfullyNegotiated:SessionId: NzcrkcHJ2u6QRw==
+2021-02-11 19:37:19|pRafLd3osFr3q+Ofjyd1Z4hSIFP8+nTaXAAdt8HZQC0=|EVENT|SessionSucessfullyNegotiated:SessionId: ewtLaROl4ZmBcA==
+2021-02-11 19:37:28|5jvoG3o2hWtmgO6VYBvyEwFYIFJGDSmKlgFR0WyX4qk=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId ewtLaROl4ZmBcA==
+2021-02-11 19:37:43|zqicInyQDs6+B1xBakyWk14AAXsFPEba/K6QibHuD0w=|EVENT|UserCreated:CreatedEmail: test@test.com CreatorEmail: admin@phr.co.uk
+2021-02-11 19:41:22|agDA25bb+zRJxFlTZ9IHRDHg5IE9zeby4CHw1ZCSODM=|EVENT|UserDeleted:UserId: 44 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:41:25|g8LFlpu7XN4YJhSanaDhy57EoRgnxcdEtTvHkvpGVik=|EVENT|UserDeleted:UserId: 30 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:41:26|33eJC6XLGl1K7xi/WDSSyQZFKq9s4FU4YQfJkz09uyc=|EVENT|UserDeleted:UserId: 31 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:41:27|JoLn9gpgyXXDiE4ihRPuvX4UL4+ZfVM4sB5krNRXgug=|EVENT|UserDeleted:UserId: 38 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:41:27|AYMgOBSZGUmqJMBdrQ/gDICMKiNr+JX93PLHxXyWW5Q=|EVENT|UserDeleted:UserId: 39 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:41:28|Ofa18YFas81ss80Ej6CGMAwh2QHF+t4QNr7sW8pGoDU=|EVENT|UserDeleted:UserId: 40 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:41:28|id1kzetgRNaCL62HywrEUGsVcb0Cv5ywJQ/VPRz3Eok=|EVENT|UserDeleted:UserId: 41 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:41:29|RYICESEu2aysVMpcCHedMpnWS/BDF3+szur9fMMsOtI=|EVENT|UserDeleted:UserId: 42 DeletorEmail: admin@phr.co.uk
+2021-02-11 19:43:12|---|EVENT|SessionSucessfullyNegotiated:SessionId: djH+1jziPW/uSQ==
+2021-02-11 19:43:29|owTWKuMlEBndb4SUICypQ5jmqbNhJld+m+V8/r58P2c=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId djH+1jziPW/uSQ==
+2021-02-11 19:43:42|AmE5NnJDmjTiDTH/aWr6CCPjwoj5qgVCPCSbw2GUORI=|EVENT|UserCreated:CreatedEmail: patient1@email.com CreatorEmail: admin@phr.co.uk
+2021-02-11 19:43:54|MQO/afUZIcOvAUJ9aeOdyhccEJPsm3TnlX17p16JW20=|EVENT|UserCreated:CreatedEmail: patient2@email.com CreatorEmail: admin@phr.co.uk
+2021-02-11 19:44:03|t+oMnJ3dxH831k+EP01q97VFUzDoEqWHvG1ELxEMPYk=|EVENT|UserCreated:CreatedEmail: staff1@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 19:44:18|wyyRodO3JPWcoSOYcD7m+ILaQJWfL3/YFjqOG7OpLHs=|EVENT|UserCreated:CreatedEmail: staff2@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 19:44:28|2a+uMRWXjYGTl7Nuj6h7NkM36BAOtQzAkztgTdlBslc=|EVENT|UserCreated:CreatedEmail: regulator1@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 19:44:37|SNhuq4iy9G2Y6pc0DGVb9lDiAQJ4X0gxGVmoYfSJtGw=|EVENT|UserCreated:CreatedEmail: regulator2@phr.co.uk CreatorEmail: admin@phr.co.uk
+2021-02-11 19:44:47|6EpkEuXbjVRdoM0aGUwTvXjcDPBwb/Xh2TH6/eRnfgw=|EVENT|UserCreated:CreatedEmail: newpatient@test.com CreatorEmail: admin@phr.co.uk
+2021-02-11 19:44:52|9zSr+kcquuTfIPoxhlsSU3aq2rQDC0zlEJSFimqDWPY=|EVENT|SessionSucessfullyNegotiated:SessionId: Iboqspp8n8lh4Q==
+2021-02-11 19:44:59|FEsYs99J1T1gjwi1oVLYqfXtBGzoOlh/iIf9VjrwUcg=|EVENT|SucessfulLogin:Email: staff1@phr.co.uk SessionId Iboqspp8n8lh4Q==
+2021-02-11 19:45:01|u0sS+g9hRGFTHW/sZrmtH+QC3zxBI5LlolGPkxwx7UM=|EVENT|SessionSucessfullyNegotiated:SessionId: KEM9ANiXax4V5A==
+2021-02-11 19:45:06|eE+U0HhbP8oLKVYKx2LhkVHK5vfTFxrxCuklrDmOxw0=|EVENT|SucessfulLogin:Email: staff1@phr.co.uk SessionId KEM9ANiXax4V5A==
+2021-02-11 19:46:29|I9T4qk2uuZzkxr8JoLZ7YY0fRkd/2Xn7Pc1ZlF7JAT8=|EVENT|PatientRecordUpdated:RecordId: 45 UpdatorEmail: staff1@phr.co.uk
+2021-02-11 19:47:18|zoJAEKe+JK5iAJfhi+6iHQcoDFei6kaHZ5XpO8FE13o=|EVENT|PatientRecordUpdated:RecordId: 46 UpdatorEmail: staff1@phr.co.uk
+2021-02-11 19:48:36|83u16VfZZpjmfDASStTY3vH2dKbj2+xEzXchmANy1To=|EVENT|PatientRecordUpdated:RecordId: 51 UpdatorEmail: staff1@phr.co.uk
+2021-02-11 19:48:51|zBZSr6fO7vJHvx6uoQfmCbIx8mI86A+yhdLcS4920IY=|EVENT|SessionSucessfullyNegotiated:SessionId: VWfacj6eM1e+yg==
+2021-02-11 19:49:07|N53GMVTl6cby1Ggmr3j+VTvU9nO6Q37wRLACUXORXeQ=|WARNING|Unsucessful login attempt for email patient1@email.com using SessionId: VWfacj6eM1e+yg==
+2021-02-11 19:49:13|XbJfj3MFVDT2nIS+6Ir/iHWhyTH6fVfr1ZiVJRq/b+w=|EVENT|SucessfulLogin:Email: patient1@email.com SessionId VWfacj6eM1e+yg==
+2021-02-11 19:49:16|aOyjc3wtE5ZqFDTmgbOLou3DzQP+H0FLVu584tZrn+o=|EVENT|SessionSucessfullyNegotiated:SessionId: 9apIH/c6GIp2+w==
+2021-02-11 19:49:26|QKRAW+hYYTBbXIBGcItnarfpWF0diNW0D647HRIWGqk=|EVENT|SucessfulLogin:Email: patient1@email.com SessionId 9apIH/c6GIp2+w==
+2021-02-11 19:49:37|/ZnMnC4tmjhzkkeaBPn31TNyswuHKI2Mg/kb/Am9Ykg=|EVENT|SessionSucessfullyNegotiated:SessionId: kFQFVoLYpI+o6Q==
+2021-02-11 19:49:45|VtPOZb+6jHBWsOWWSfEYLNdCiJrN8CX1rZPCyrgfZ3c=|EVENT|SucessfulLogin:Email: patient2@email.com SessionId kFQFVoLYpI+o6Q==
+2021-02-11 19:49:47|rvRX+eHVelnhHbZD8dFrv29a0O9xHjnGy+NJnjX4ONA=|EVENT|SessionSucessfullyNegotiated:SessionId: d3lht/ft67HE8Q==
+2021-02-11 19:49:54|K29ZR7A1TFLM2/mKn/0Jqo7XV+hS5Cdty3vFDBQbEMA=|EVENT|SucessfulLogin:Email: patient2@email.com SessionId d3lht/ft67HE8Q==
+2021-02-11 19:49:55|z5gzSGWg+lGBL2Pos2Xg8HxfYHlB0GUblKXcoX2Hwdw=|EVENT|SessionSucessfullyNegotiated:SessionId: //614LE75ZNc8A==
+2021-02-11 19:50:04|Dmdy2RZXPmCjGOS8hWDaGjaVkkbRIJotj917S0B8Nvc=|EVENT|SucessfulLogin:Email: regulator1@phr.co.uk SessionId //614LE75ZNc8A==
+2021-02-11 19:50:08|c+PPTW/wotd93oO65xHzSDY5VaZxrS5wvDlq+hYxlS4=|EVENT|SessionSucessfullyNegotiated:SessionId: A5lY6YM1do+myA==
+2021-02-11 19:50:15|Uf16soMznnMD/ZKUIrheQgt9qPbscCJKi0ioc9/Tzds=|EVENT|SucessfulLogin:Email: regulator1@phr.co.uk SessionId A5lY6YM1do+myA==

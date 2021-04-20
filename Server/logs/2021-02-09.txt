@@ -1,0 +1,12 @@
+2021-02-09 18:55:35|---|EVENT|SessionSucessfullyNegotiated:SessionId: B4qUXpu9wKB4EA==
+2021-02-09 18:56:02|nYgeenwrqqRg966XsKD74jNR+NfJeUi2FVFTKl4vqTM=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId B4qUXpu9wKB4EA==
+2021-02-09 18:57:39|---|EVENT|SessionSucessfullyNegotiated:SessionId: y/HUy21GeM7Cuw==
+2021-02-09 18:57:51|gjCkFRmvcTZilwgM7OW6F1sSdfMAxle5vOcuUzHZ30A=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId y/HUy21GeM7Cuw==
+2021-02-09 18:59:38|---|EVENT|SessionSucessfullyNegotiated:SessionId: SlLIi4ReBdmimw==
+2021-02-09 18:59:50|DT8AbeTIhZaN0x8OrjPFiKnELkbMG9qwQNMU0akwL5E=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId SlLIi4ReBdmimw==
+2021-02-09 21:08:19|---|EVENT|SessionSucessfullyNegotiated:SessionId: og1bOPU7D0CHYw==
+2021-02-09 21:08:30|nfAQnTO88n42M1hBjSj6na9AcZzckHgN4C4tYJa3tUY=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId og1bOPU7D0CHYw==
+2021-02-09 21:17:05|---|EVENT|SessionSucessfullyNegotiated:SessionId: O2D1FAVGbDknJw==
+2021-02-09 21:17:17|gVXnIbvVn25ep1joyM+T1pnrXZRHfeXuR4X5G//RH2E=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId O2D1FAVGbDknJw==
+2021-02-09 21:17:50|g5EvWdrXa0SL3hLo/Q46oi4QFyLTO2UtR2ciZ+D0voA=|EVENT|UserCreated:CreatedEmail: test1@test.com CreatorEmail: admin@phr.co.uk
+2021-02-09 21:18:04|AvAD1GtwCb4/abIiKRoGXxi9Wk9vcuRj2/ZfgMeqs7o=|EVENT|UserDeleted:UserId: 24 DeletorEmail: admin@phr.co.uk

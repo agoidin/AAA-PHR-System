@@ -1,0 +1,12 @@
+admin@phr.co.uk         Admin123!
+patient1@email.com      Qwerty123!
+patient2@email.com      123
+staff@phr.co.uk         Staff123!
+regulator@phr.co.uk     regulator
+patient3@email.com      123
+patient4@email.com      123
+staff1@phr.co.uk        staff
+staff3@phr.co.uk        staff
+staff4@phr.co.uk        Staff123!
+patient@email.com       Qwerty123!
+test@test.com           TestTest123!

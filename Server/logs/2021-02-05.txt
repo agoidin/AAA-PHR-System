@@ -1,0 +1,10 @@
+2021-02-05 18:37:28|---|EVENT|SessionSucessfullyNegotiated:SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:45|SoCrZQb5NfgvC3zLyqZoxjhKfDcocPpszRPXy7e3q98=|WARNING|Unsucessful login attempt for email admin@phr.co.uk using SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:47|TCCwiq/QKKRhhEPZv8kAVMbF0jieIj223t8+ddjWCCk=|WARNING|Unsucessful login attempt for email admin@phr.co.uk using SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:47|zmeajG6ZyT45QL2oNFzEg7Pauue1VZQ9sw4LjnBZp10=|WARNING|Unsucessful login attempt for email admin@phr.co.uk using SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:48|16E7MZKq0d15EKwu4P9VyTmfbRP54UdshQn0k/8Mg2w=|WARNING|Unsucessful login attempt for email admin@phr.co.uk using SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:48|bHob22UYIBRYe+2eDW/aiq627C+j88W7mec1/33gfWA=|WARNING|Unsucessful login attempt for email admin@phr.co.uk using SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:48|q1GrCmIMYTo4oWF2fEv3z8SrablmjvSNf5sruhjgaZY=|WARNING|Unsucessful login attempt for email admin@phr.co.uk using SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:50|L1Kl8bkZxu44EW/j8SSRblc2KqlvW8UQYoMnh6yKspI=|WARNING|Unsucessful login attempt for email admin@phr.co.uk using SessionId: U74FiucbqoSdxQ==
+2021-02-05 18:37:56|50aEc362mOjHyhJwdoPHHhP5g4MHCKxK70L16LdNbRU=|EVENT|SucessfulLogin:Email: admin@phr.co.uk SessionId U74FiucbqoSdxQ==
+2021-02-05 18:39:06|K0rDRkqxsFyQB5tMB6kXl6ldFuJKWsEDH/StlDMLvMU=|EVENT|SessionSucessfullyNegotiated:SessionId: i4s1yA0RHdMypg==
