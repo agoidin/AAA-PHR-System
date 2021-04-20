@@ -57,16 +57,18 @@ $ java Main
 3. USE ONE OF THE USERS TO LOG IN:
 (please clear all whitespaces)
 
-| Username                | Password            | Additional info                           |
-| ----------------------- |:-------------------:| -----------------------------------------:|
-|  admin@phr.co.uk        |  Admin123!          |                                           |
-|  patient1@email.com     |  PatientPatient111! |                                           |
-|  patient2@email.com     |  PatientPatient222! |                                           |     
-|  staff1@phr.co.uk       |  StaffStaff111!     |                                           |
-|  staff2@phr.co.uk       |  StaffStaff222!     | (first login, requires password change)   |
-|  regulator1@phr.co.uk   |  Regulator111!      |                                           |
-|  regulator2@phr.co.uk   |  Regulator222!      | (first login, requires password change)   |
-|  newpatient@test.com    |  TestTest123!       | (first login, requires password change)   |
+|       Username       |      Password      |             Additional info             |
+| :------------------: | :----------------: | :-------------------------------------: |
+|   admin@phr.co.uk    |     Admin123!      |                                         |
+|  patient1@email.com  | PatientPatient111! |                                         |
+|  patient2@email.com  | PatientPatient222! |                                         |
+|   staff1@phr.co.uk   |   StaffStaff111!   |                                         |
+|   staff2@phr.co.uk   |   StaffStaff222!   | (first login, requires password change) |
+| regulator1@phr.co.uk |   Regulator111!    |                                         |
+| regulator2@phr.co.uk |   Regulator222!    | (first login, requires password change) |
+| newpatient@test.com  |    TestTest123!    | (first login, requires password change) |
+
+
 
 ## :bangbang: Implementation Notes
 As it was a university project with limited timeframes and certain learning objectives, the main focus was on functinality rather than interface design. Therefore, GUI is very simple and was developed just for easier visual testing purposes. Also, project layout is simple and files are not split in different packages.
