@@ -83,3 +83,6 @@ $ java Main
 
 ## :bangbang: Implementation Notes
 As it was a university project with limited timeframes and certain learning objectives, the main focus was on functinality rather than interface design. Therefore, GUI is very simple and was developed just for easier visual testing purposes. Also, project layout is simple and files are not split in different packages.
+
+
+***NB! Project was copied from private repo***
